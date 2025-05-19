@@ -1,3 +1,5 @@
+![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)
+
 
 ## 🛠️ Hardware Requirements
 - ESP32 board  
